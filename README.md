@@ -1,2 +1,3 @@
-# hello-world
-just another repository
+hello,
+
+This is my first get hub repository. 
